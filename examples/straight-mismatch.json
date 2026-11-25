@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "instrument": "independent saddle offsets forced onto one straight saddle",
+  "scale_length_mm": 645.16,
+  "saddle": "straight",
+  "tolerance_cents": 3.0,
+  "strings": [
+    {
+      "id": "E6",
+      "label": "E6",
+      "lateral_mm": 0.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": -0.146731
+        },
+        {
+          "fret": 5,
+          "cents": -0.006701
+        },
+        {
+          "fret": 7,
+          "cents": 0.730989
+        },
+        {
+          "fret": 9,
+          "cents": 0.872148
+        },
+        {
+          "fret": 12,
+          "cents": 1.923601
+        },
+        {
+          "fret": 15,
+          "cents": 2.685611
+        },
+        {
+          "fret": 17,
+          "cents": 3.764152
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "label": "A5",
+      "lateral_mm": 10.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 2.617382
+        },
+        {
+          "fret": 5,
+          "cents": 4.875648
+        },
+        {
+          "fret": 7,
+          "cents": 7.98676
+        },
+        {
+          "fret": 9,
+          "cents": 10.786698
+        },
+        {
+          "fret": 12,
+          "cents": 16.435875
+        },
+        {
+          "fret": 15,
+          "cents": 22.643827
+        },
+        {
+          "fret": 17,
+          "cents": 27.898159
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "label": "D4",
+      "lateral_mm": 20.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": -0.146731
+        },
+        {
+          "fret": 5,
+          "cents": -0.006701
+        },
+        {
+          "fret": 7,
+          "cents": 0.730989
+        },
+        {
+          "fret": 9,
+          "cents": 0.872148
+        },
+        {
+          "fret": 12,
+          "cents": 1.923601
+        },
+        {
+          "fret": 15,
+          "cents": 2.685611
+        },
+        {
+          "fret": 17,
+          "cents": 3.764152
+        }
+      ]
+    },
+    {
+      "id": "G3",
+      "label": "G3",
+      "lateral_mm": 30.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 2.617382
+        },
+        {
+          "fret": 5,
+          "cents": 4.875648
+        },
+        {
+          "fret": 7,
+          "cents": 7.98676
+        },
+        {
+          "fret": 9,
+          "cents": 10.786698
+        },
+        {
+          "fret": 12,
+          "cents": 16.435875
+        },
+        {
+          "fret": 15,
+          "cents": 22.643827
+        },
+        {
+          "fret": 17,
+          "cents": 27.898159
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "label": "B2",
+      "lateral_mm": 40.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": -0.146731
+        },
+        {
+          "fret": 5,
+          "cents": -0.006701
+        },
+        {
+          "fret": 7,
+          "cents": 0.730989
+        },
+        {
+          "fret": 9,
+          "cents": 0.872148
+        },
+        {
+          "fret": 12,
+          "cents": 1.923601
+        },
+        {
+          "fret": 15,
+          "cents": 2.685611
+        },
+        {
+          "fret": 17,
+          "cents": 3.764152
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "label": "E1",
+      "lateral_mm": 50.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 2.617382
+        },
+        {
+          "fret": 5,
+          "cents": 4.875648
+        },
+        {
+          "fret": 7,
+          "cents": 7.98676
+        },
+        {
+          "fret": 9,
+          "cents": 10.786698
+        },
+        {
+          "fret": 12,
+          "cents": 16.435875
+        },
+        {
+          "fret": 15,
+          "cents": 22.643827
+        },
+        {
+          "fret": 17,
+          "cents": 27.898159
+        }
+      ]
+    }
+  ]
+}

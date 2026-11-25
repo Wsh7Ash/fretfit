@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "instrument": "steel-string 25.4 in scale (synthetic measurement set)",
+  "scale_length_mm": 645.16,
+  "saddle": "individual",
+  "tolerance_cents": 3.0,
+  "strings": [
+    {
+      "id": "E6",
+      "label": "E6",
+      "lateral_mm": 0.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.564775
+        },
+        {
+          "fret": 5,
+          "cents": 1.557535
+        },
+        {
+          "fret": 7,
+          "cents": 3.251424
+        },
+        {
+          "fret": 9,
+          "cents": 4.464676
+        },
+        {
+          "fret": 12,
+          "cents": 7.372379
+        },
+        {
+          "fret": 15,
+          "cents": 10.336894
+        },
+        {
+          "fret": 17,
+          "cents": 13.107049
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "label": "A5",
+      "lateral_mm": 10.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.4965
+        },
+        {
+          "fret": 5,
+          "cents": 1.334762
+        },
+        {
+          "fret": 7,
+          "cents": 2.855479
+        },
+        {
+          "fret": 9,
+          "cents": 3.874664
+        },
+        {
+          "fret": 12,
+          "cents": 6.446586
+        },
+        {
+          "fret": 15,
+          "cents": 9.013069
+        },
+        {
+          "fret": 17,
+          "cents": 11.4778
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "label": "D4",
+      "lateral_mm": 20.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.402873
+        },
+        {
+          "fret": 5,
+          "cents": 1.067036
+        },
+        {
+          "fret": 7,
+          "cents": 2.392574
+        },
+        {
+          "fret": 9,
+          "cents": 3.192978
+        },
+        {
+          "fret": 12,
+          "cents": 5.386237
+        },
+        {
+          "fret": 15,
+          "cents": 7.503652
+        },
+        {
+          "fret": 17,
+          "cents": 9.623649
+        }
+      ]
+    },
+    {
+      "id": "G3",
+      "label": "G3",
+      "lateral_mm": 30.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.207921
+        },
+        {
+          "fret": 5,
+          "cents": 0.620068
+        },
+        {
+          "fret": 7,
+          "cents": 1.663002
+        },
+        {
+          "fret": 9,
+          "cents": 2.146537
+        },
+        {
+          "fret": 12,
+          "cents": 3.79113
+        },
+        {
+          "fret": 15,
+          "cents": 5.257484
+        },
+        {
+          "fret": 17,
+          "cents": 6.877403
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "label": "B2",
+      "lateral_mm": 40.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.063212
+        },
+        {
+          "fret": 5,
+          "cents": 0.261616
+        },
+        {
+          "fret": 7,
+          "cents": 1.064794
+        },
+        {
+          "fret": 9,
+          "cents": 1.279418
+        },
+        {
+          "fret": 12,
+          "cents": 2.458171
+        },
+        {
+          "fret": 15,
+          "cents": 3.371392
+        },
+        {
+          "fret": 17,
+          "cents": 4.566192
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "label": "E1",
+      "lateral_mm": 50.0,
+      "measurements": [
+        {
+          "fret": 3,
+          "cents": 0.045048
+        },
+        {
+          "fret": 5,
+          "cents": 0.126671
+        },
+        {
+          "fret": 7,
+          "cents": 0.798829
+        },
+        {
+          "fret": 9,
+          "cents": 0.866468
+        },
+        {
+          "fret": 12,
+          "cents": 1.790512
+        },
+        {
+          "fret": 15,
+          "cents": 2.401157
+        },
+        {
+          "fret": 17,
+          "cents": 3.363304
+        }
+      ]
+    }
+  ]
+}
